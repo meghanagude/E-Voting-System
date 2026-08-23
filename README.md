@@ -38,30 +38,7 @@ MongoDB Atlas — Database
 Tools
 Git
 GitHub
-📂 Project Structure
-Secure-E-Voting-System/
-│
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── context/
-│   │   ├── pages/
-│   │   ├── services/
-│   │   ├── App.jsx
-│   │   └── main.jsx
-│   ├── package.json
-│   └── vite.config.js
-│
-├── backend/
-│   ├── controllers/
-│   ├── middleware/
-│   ├── models/
-│   ├── routes/
-│   ├── config/
-│   ├── server.js
-│   └── package.json
-│
-└── README.md
+
 👨‍💼 Admin Module
 
 The administrator can:
